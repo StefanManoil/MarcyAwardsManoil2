@@ -6,4 +6,4 @@
 
 - St Marcellinus is currently using the app on monitors in the school hallways!
 
-![](img/InSchool.jpg)
+![](img/InSchoolScreenshot.jpg)
