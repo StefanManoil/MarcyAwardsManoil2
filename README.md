@@ -5,3 +5,5 @@
 - Uses Maven to manage dependencies.
 
 - St Marcellinus is currently using the app on monitors in the school hallways!
+
+![](img/InSchool.jpg)
