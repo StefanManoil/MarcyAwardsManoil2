@@ -8,3 +8,8 @@
 
 ![](img/InSchoolScreenshot.jpg)
 ![](img/AddEditDeleteAwardTypes.jpg)
+![](img/AddEditDeleteStudents.jpg)
+![](img/DatabaseImport.jpg)
+![](img/HighestMarkPerSubject.jpg)
+![](img/HonorRoll.jpg)
+![](img/MainMenu.jpg)
